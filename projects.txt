@@ -1,0 +1,21 @@
+#Projects
+
+##School
+
+###CAS 502: collaborative project with George Estrada
+
+Implementation plan draft complete, with revisions suggestions from professor received. Need to fork starter project.
+
+###Arizona State: complete interactive plan of study (IPOS) and review with academic advisor
+
+Acceptable draft saved, but needs review. Due by end of Spring 2026 semester.
+
+##Work
+
+###UiPath: create and send form to collect ideas for enablement material
+
+Effort: 20 minutes. Will complete Monday.
+
+###UiPath: set up cadence with Enterprise AI Architect to discuss competitive analysis and concepts to teach colleagues
+
+Initial conversation about cadence had on 1/30/2026. Will talk on the phone week of 2/2/2026 despite paternity leave beginning.
